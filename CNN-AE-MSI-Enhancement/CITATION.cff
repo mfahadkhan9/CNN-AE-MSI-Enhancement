@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: CNN-AE-MSI Enhancement
+authors:
+  - family-names: Fahad
+    given-names: Muhammad
+message: "If you use this repository, please cite the associated manuscript."
+year: 2026
